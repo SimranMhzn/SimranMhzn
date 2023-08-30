@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/SimranMhzn/SimranMhzn/assets/143006616/5fa59f06-3dac-4e38-a0b3-bea551e30a97)
 <h1 align="center">A passionate but moderate learner</h1>
 <h3 align="center">Smrn</h3>
-<img align="right" alt="Coding" width="400""src="(https://github.com/SimranMhzn/SimranMhzn/assets/143006616/f0fe2997-ba5e-40c8-9928-52b55f352a29)"
+<img align="right" alt="Coding" width="400""src=""
 
 
 
