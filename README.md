@@ -3,7 +3,7 @@
 <h3 align="center">Smrn</h3>
 <img align="right" alt="gif" width="400" ![sim](https://github.com/SimranMhzn/SimranMhzn/assets/143006616/4f59e08c-5e85-483f-a12a-9b761ecc4368)>
 
-<img align="right" ![sim](https://github.com/SimranMhzn/SimranMhzn/assets/143006616/4f59e08c-5e85-483f-a12a-9b761ecc4368)> 
+
 
 
 
