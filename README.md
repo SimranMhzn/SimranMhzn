@@ -2,6 +2,7 @@
 <h1 align="center">A passionate but moderate learner</h1>
 <h3 align="center">Smrn</h3>
 <img align="right" alt="gif" width="400" "src="![d4tvukbt5mra37cvwklk](https://github.com/SimranMhzn/SimranMhzn/assets/143006616/2ccc7daa-39b7-4c25-aa0c-4ea2c3825119)" />
+
 ![d4tvukbt5mra37cvwklk](https://github.com/SimranMhzn/SimranMhzn/assets/143006616/2ccc7daa-39b7-4c25-aa0c-4ea2c3825119)
 
 
