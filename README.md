@@ -7,7 +7,7 @@
 
 
 
-🌱 I’m currently learning **C++**
+🌱 I’m currently learning **C++, Python and Adobe Photoshop**
 
 📫 How to reach me **mhznsimran1234@gmail.com**
 
