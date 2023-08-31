@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/SimranMhzn/SimranMhzn/assets/143006616/5fa59f06-3dac-4e38-a0b3-bea551e30a97)
 <h1 align="center">A passionate but moderate learner</h1>
 <h3 align="center">Smrn</h3>
-<img align="right" alt="gif" width="400" src=https://github.com/SimranMhzn/SimranMhzn/issues/3#issue-1872753321>
+<img align="right" alt="gif" width="400" src=https://github.com/SimranMhzn/SimranMhzn/blob/main/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif>
 
 
 
