@@ -9,7 +9,6 @@
 
 🌱 I’m currently learning **Python and JavaScript**
 
-📫 How to reach me **mhznsimran1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
