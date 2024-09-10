@@ -5,5 +5,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SimranMhzn&label=Profile%20views&color=0e75b6&style=flat" alt="SimranMhzn" /> </p>
 
-- Interested in **Web Development and you**
 
